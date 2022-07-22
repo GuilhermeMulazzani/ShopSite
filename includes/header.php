@@ -5,7 +5,7 @@ include_once './includes/head.php';
 <header>
     <div class="container">
     <a class="logo" href="index.php">
-        <img src="./content/images/Logo.jpeg" alt="" width="100px" height="100px">
+        <img src="./content/images/Logo.jpeg" alt="" width="60px" height="60px">
     </a>
 
     <div class="container" style="text-align: center">

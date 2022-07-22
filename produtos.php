@@ -6,26 +6,22 @@ include_once './includes/footer.php';
 
 ?>
 
-<div id="lancamento" class="container">
-    <h1>Lançamentos</h1>
+<div id="novidades" class="container">
+    <h1>Nossos Produtos</h1>
 </div>
+
 <?php
-
-
-for ($i=0; $i < 10 ; $i++) { 
-    # code..
+for ($i=0; $i < 8 ; $i++) { 
 ?>
+
 <div class="container">
 <div id="card">
     
-<div id="botaoo" class="text-center">
-<button id="botao"  type="button" class="btn btn-dark">visitar</button></div>
 <div id="img" >
-    <img id="imgs" class="card-img" src="https://d3ugyf2ht6aenh.cloudfront.net/stores/001/038/799/products/calca-cargo-white-globe-21-f1f6124e6177c55b1116547785445569-480-0.jpg" alt="Imagem do card">
+    <img id="imgs" class="card-img" src="https://pbs.twimg.com/media/FYSKSCcUEAAtcgu?format=jpg&name=small" alt="Imagem do card">
     </div>
-    <a id="nome_produto" href="">Calça cargo white globe</a>
-  
-  
+    <a id="nome_produto" href="">Ted Churrasqueiro</a>
+ 
 </div>
 </div>
 </div>
